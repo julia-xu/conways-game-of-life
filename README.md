@@ -1,6 +1,8 @@
 # Conway's Game of Life
 Ruby code simulating Conway's Game of Life
 [Wikipedia Page](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+## Test the game with Repl
 [Repl page of code](https://repl.it/JJW5/12)
 
 ```ruby
