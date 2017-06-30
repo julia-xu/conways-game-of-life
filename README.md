@@ -13,6 +13,8 @@ Ruby code simulating Conway's Game of Life
 # 3. Any live cell with more than three live neighbours dies, as if by overpopulation.
 # 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
+# Note: In this code, 1 represents 'alive' and 0 represents 'dead'.
+
 ########################################################################################################
 
 # generates universe given x & y length and stores as 2D array
